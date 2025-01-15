@@ -1,0 +1,75 @@
+Is the eye colour brown?
+eyeColour
+brown
+
+Is the eye colour green?
+eyeColour
+green
+
+Is the eye colour blue?
+eyeColour
+blue
+
+Is the person a male?
+gender
+male
+
+Does the person have<br>a light skin tone?
+skinTone
+light
+
+Is the hair colour black?
+hairColour
+black
+
+Is the hair colour brown?
+hairColour
+brown
+
+Is the hair colour ginger?
+hairColour
+ginger
+
+Is the hair colour blonde?
+hairColour
+blonde
+
+Is the hair colour white?
+hairColour
+white
+
+Does the person have<br>facial hair?
+hasFacialHair
+hair
+
+Is the person wearing<br>glasses?
+hasGlasses
+glasses
+
+Does the person have<br>visible teeth?
+hasVisibleTeeth
+teeth
+
+Is the person wearing a <br>hat?
+hasHat
+hat
+
+Does the person have<br>short hair?
+hairLength
+short
+
+Does the person have<br>their hair tied up?
+hairLength
+tied
+
+Does the person have long hair?
+hairLength
+long
+
+Is the person bald?
+hairLength
+bald
+
+Does the person have<br>an ear piercing?
+hasPiercings
+piercings

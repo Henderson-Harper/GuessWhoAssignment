@@ -1,0 +1,98 @@
+The AI starts their match vs Player #1 at 13-01-2024 22:04:32
+- The AI asked the question: Is the person wearing glasses? | the answer was no
+- Player #1 asked the question: Is the person a male? | the answer was no
+- The AI asked the question: Does the person have their hair tied up? | the answer was yes
+- Player #1 asked the question: Does the person have a light skin tone? | the answer was yes
+- The AI asked the question: Is the hair colour blonde? | the answer was no
+- Player #1 asked the question: Is the person wearing glasses? | the answer was no
+- The AI asked the question: Does the person have facial hair? | the answer was no
+- Player #1 asked the question: Is the person wearing a  hat? | the answer was no
+- The AI asked the question: Is the eye colour brown? | the answer was no
+Player #1 abandoned the match vs The AI
+
+Player #1 starts their match vs The AI at 13-01-2024 22:07:17
+Player #1 abandoned the match vs The AI
+
+The AI starts their match vs Player #1 at 13-01-2024 22:08:34
+- The AI asked the question: Is the person wearing glasses? | the answer was no
+- Player #1 asked the question: Is the person a male? | the answer was yes
+- The AI asked the question: Does the person have their hair tied up? | the answer was no
+- Player #1 asked the question: Does the person have a light skin tone? | the answer was no
+- The AI asked the question: Does the person have long hair? | the answer was no
+- Player #1 asked the question: Does the person have facial hair? | the answer was yes
+- The AI asked the question: Is the hair colour blonde? | the answer was no
+- Player #1 asked the question: Is the person wearing glasses? | the answer was yes
+- The AI asked the question: Is the hair colour white? | the answer was no
+- Player #1 asked the question: Is the eye colour green? | the answer was yes
+- The AI asked the question: Is the hair colour brown? | the answer was no
+- Player #1 asked the question: Does the person have short hair? | the answer was no
+
+The AI starts their match vs Player #1 at 15-01-2024 11:46:42
+- The AI asked the question: Is the person a male? | the answer was yes
+- Player #1 asked the question: Is the person a male? | the answer was no
+- The AI asked the question: Does the person have a light skin tone? | the answer was no
+- Player #1 asked the question: Does the person have a light skin tone? | the answer was yes
+- The AI asked the question: Is the hair colour black? | the answer was no
+- Player #1 asked the question: Is the hair colour black? | the answer was no
+- The AI asked the question: Does the person have short hair? | the answer was no
+- Player #1 asked the question: Is the person wearing glasses? | the answer was yes
+- The AI asked the question: Is the eye colour green? | the answer was yes
+- Player #1 asked the question: Is the person's name Rachel? | the answer was yes
+The AI starts their match vs Player #1 at 15-01-2024 11:47:43
+- The AI asked the question: Is the person a male? | the answer was yes
+- Player #1 asked the question: Is the person bald? | the answer was no
+- The AI asked the question: Does the person have a light skin tone? | the answer was no
+- Player #1 asked the question: Does the person have an ear piercing? | the answer was yes
+- The AI asked the question: Is the hair colour black? | the answer was no
+- Player #1 asked the question: Does the person have their hair tied up? | the answer was no
+- The AI asked the question: Does the person have short hair? | the answer was no
+- Player #1 asked the question: Does the person have visible teeth? | the answer was no
+- The AI asked the question: Is the eye colour green? | the answer was yes
+- Player #1 asked the question: Is the person's name Rachel? | the answer was no
+
+
+The AI starts their match vs Wen at 19-01-2024 15:53:14
+- The AI asked the question: Is the person a male? | the answer was no
+- Wen asked the question: Is the person a male? | the answer was yes
+- The AI asked the question: Does the person have visible teeth? | the answer was yes
+- Wen asked the question: Does the person have a light skin tone? | the answer was no
+- The AI asked the question: Does the person have an ear piercing? | the answer was no
+- Wen asked the question: Does the person have facial hair? | the answer was yes
+- The AI asked the question: Is the eye colour green? | the answer was no
+- Wen asked the question: Is the person wearing glasses? | the answer was yes
+- The AI asked the question: Is the eye colour brown? | the answer was no
+- Wen asked the question: Is the person's name Joe? | the answer was no
+Wen starts their match vs The AI at 19-01-2024 15:58:00
+- Wen asked the question: Is the person a male? | the answer was no
+- The AI asked the question: Is the person a male? | the answer was yes
+- Wen asked the question: Does the person have visible teeth? | the answer was no
+- The AI asked the question: Does the person have a light skin tone? | the answer was no
+- Wen asked the question: Does the person have an ear piercing? | the answer was no
+- The AI asked the question: Is the hair colour black? | the answer was yes
+- Wen asked the question: Does the person have a light skin tone? | the answer was yes
+- The AI asked the question: Does the person have facial hair? | the answer was no
+- Wen asked the question: Does the person have short hair? | the answer was no
+- The AI asked the question: Is the eye colour green? | the answer was no
+- Wen asked the question: Is the person wearing a  hat? | the answer was yes
+- The AI asked the question: Is your character's name Gabe? | the answer was yes
+The AI correctly guessed Wen's mystery character (Gabe)!
+
+
+Player #1 starts their match vs The AI at 29-02-2024 13:45:45
+- Player #1 asked the question: Is the person wearing glasses? | the answer was yes
+- The AI asked the question: Is the person a male? | the answer was yes
+- Player #1 asked the question: Is the person bald? | the answer was no
+- The AI asked the question: Does the person have a light skin tone? | the answer was yes
+- Player #1 asked the question: Is the person a male? | the answer was yes
+- The AI asked the question: Does the person have facial hair? | the answer was yes
+- Player #1 asked the question: Is the person's name Ben? | the answer was yes
+Player #1 starts their match vs The AI at 29-02-2024 13:47:14
+The AI starts their match vs Player #1 at 29-02-2024 13:56:05
+- The AI asked the question: Is the person a male? | the answer was yes
+- Player #1 asked the question: Does the person have a light skin tone? | the answer was yes
+- The AI asked the question: Does the person have a light skin tone? | the answer was yes
+- Player #1 asked the question: Is the person a male? | the answer was no
+- The AI asked the question: Does the person have facial hair? | the answer was yes
+- Player #1 asked the question: Is the eye colour blue? | the answer was yes
+- The AI asked the question: Is the eye colour brown? | the answer was no
+- Player #1 asked the question: Is the person's name Katie? | the answer was yes

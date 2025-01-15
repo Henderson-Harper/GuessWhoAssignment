@@ -1,0 +1,287 @@
+Name: Al
+Gender: male
+EyeColour: green
+SkinTone: dark
+HairColour: white
+FacialHair: hair
+Glasses: glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: bald
+Piercings: no piercings
+
+Name: Amy
+Gender: female
+EyeColour: brown
+SkinTone: light
+HairColour: black
+FacialHair: no hair
+Glasses: glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: short
+Piercings: no piercings
+
+Name: Ben
+Gender: male
+EyeColour: brown
+SkinTone: light
+HairColour: brown
+FacialHair: no hair
+Glasses: glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: short
+Piercings: piercings
+
+Name: Carmen
+Gender: female
+EyeColour: brown
+SkinTone: dark
+HairColour: white
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: teeth
+WearingHat: no hat
+HairLength: short
+Piercings: piercings
+
+Name: Daniel
+Gender: male
+EyeColour: green
+SkinTone: light
+HairColour: ginger
+FacialHair: hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: tied
+Piercings: no piercings
+
+Name: David
+Gender: male
+EyeColour: brown
+SkinTone: light
+HairColour: blonde
+FacialHair: hair
+Glasses: no glasses
+VisibleTeeth: teeth
+WearingHat: hat
+HairLength: short
+Piercings: no piercings
+
+Name: Emma
+Gender: female
+EyeColour: brown
+SkinTone: light
+HairColour: ginger
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: tied
+Piercings: no piercings
+
+Name: Eric
+Gender: male
+EyeColour: blue
+SkinTone: light
+HairColour: black
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: short
+Piercings: no piercings
+
+Name: Farah
+Gender: female
+EyeColour: blue
+SkinTone: dark
+HairColour: black
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: tied
+Piercings: no piercings
+
+Name: Gabe
+Gender: male
+EyeColour: brown
+SkinTone: dark
+HairColour: black
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: short
+Piercings: no piercings
+
+Name: Joe
+Gender: male
+EyeColour: brown
+SkinTone: dark
+HairColour: white
+FacialHair: hair
+Glasses: glasses
+VisibleTeeth: teeth
+WearingHat: no hat
+HairLength: bald
+Piercings: no piercings
+
+Name: Jordan
+Gender: male
+EyeColour: brown
+SkinTone: dark
+HairColour: black
+FacialHair: hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: short
+Piercings: piercings
+
+Name: Katie
+Gender: female
+EyeColour: blue
+SkinTone: light
+HairColour: blonde
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: hat
+HairLength: tied
+Piercings: no piercings
+
+Name: Laura
+Gender: female
+EyeColour: green
+SkinTone: dark
+HairColour: black
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: teeth
+WearingHat: no hat
+HairLength: long
+Piercings: piercings
+
+Name: Leo
+Gender: male
+EyeColour: brown
+SkinTone: dark
+HairColour: white
+FacialHair: hair
+Glasses: no glasses
+VisibleTeeth: teeth
+WearingHat: no hat
+HairLength: short
+Piercings: no piercings
+
+Name: Lily
+Gender: female
+EyeColour: green
+SkinTone: dark
+HairColour: brown
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: teeth
+WearingHat: hat
+HairLength: long
+Piercings: no piercings
+
+Name: Liz
+Gender: female
+EyeColour: blue
+SkinTone: light
+HairColour: white
+FacialHair: no hair
+Glasses: glasses
+VisibleTeeth: teeth
+WearingHat: no hat
+HairLength: long
+Piercings: no piercings
+
+Name: Mia
+Gender: female
+EyeColour: brown
+SkinTone: dark
+HairColour: black
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: teeth
+WearingHat: no hat
+HairLength: long
+Piercings: no piercings
+
+Name: Mike
+Gender: male
+EyeColour: brown
+SkinTone: light
+HairColour: black
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: teeth
+WearingHat: hat
+HairLength: short
+Piercings: no piercings
+
+Name: Nick
+Gender: male
+EyeColour: brown
+SkinTone: light
+HairColour: blonde
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: short
+Piercings: piercings
+
+Name: Olivia
+Gender: female
+EyeColour: brown
+SkinTone: dark
+HairColour: black
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: tied
+Piercings: no piercings
+
+Name: Rachel
+Gender: female
+EyeColour: blue
+SkinTone: light
+HairColour: brown
+FacialHair: no hair
+Glasses: glasses
+VisibleTeeth: no teeth
+WearingHat: no hat
+HairLength: long
+Piercings: piercings
+
+Name: Sam
+Gender: male
+EyeColour: green
+SkinTone: dark
+HairColour: black
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: no teeth
+WearingHat: hat
+HairLength: short
+Piercings: no piercings
+
+Name: Sofia
+Gender: female
+EyeColour: green
+SkinTone: dark
+HairColour: brown
+FacialHair: no hair
+Glasses: no glasses
+VisibleTeeth: teeth
+WearingHat: no hat
+HairLength: short
+Piercings: piercings
