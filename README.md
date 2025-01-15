@@ -1,4 +1,4 @@
-#Guess Who Assignment
+Guess Who Assignment
 
 Made for my Grade 12 Computer Science final project. 
 This project was a 3-person group project. 
